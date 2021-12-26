@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gauravmasand
-- 👀 I’m interested in C++, C and Python.
-- 🌱 I’m currently practice.
+- 👀 I’m interested in java and dart.
+- 🌱 I’m good in android, iOS development.
 - 📫 How to reach me e-mail me on masandgaurav231@gmail.com
