@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauravmasand
-- 👀 I’m interested in java and dart.
+- 👋 Hi, I’m Gaurav Masand
+- 👀 I’m interested in application development.
 - 🌱 I’m good in Android & iOS development.
 - 📫 How to reach me e-mail me on masandgaurav231@gmail.com
