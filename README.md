@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Gaurav Masand
-- 👀 I’m interested in application development.
-- 🌱 I’m good in Android & iOS development.
+- 📱 I’m Android & iOS developer.
 - 📫 How to reach me e-mail me on masandgaurav231@gmail.com
