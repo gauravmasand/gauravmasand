@@ -12,6 +12,7 @@ Skills and Tools 🛠️
 Contact Me 📬
 Connect with me on:
 
-LinkedIn: www.linkedin.com/in/gaurav-masand
-Twitter: www.twitter.com/gauravmasand5
+ - LinkedIn: www.linkedin.com/in/gaurav-masand
+ - Twitter: www.twitter.com/gauravmasand5
+ 
 Feel free to send me a message on either platform if you have any questions!
