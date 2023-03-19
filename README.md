@@ -9,6 +9,7 @@ Skills and Tools 🛠️
  - Firebase
  - Apache Server
  - Git
+ - WordPress
 
 Contact Me 📬
 Connect with me on:
